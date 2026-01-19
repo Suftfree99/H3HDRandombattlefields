@@ -1,0 +1,4 @@
+HD Random battlefields
+/// Detailed information about the mod:
+- A mod that expands the number of battlefields to 327 variations in HD quality.
+- 157 of them are mirror images of fields. (To work, you need to enable the script for new battlefields).
